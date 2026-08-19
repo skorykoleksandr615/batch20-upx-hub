@@ -1,0 +1,12 @@
+{
+  "name": "Up X",
+  "short_name": "Up X",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#2A0A4A",
+  "theme_color": "#2A0A4A",
+  "icons": [
+    { "src": "/favicon-192x192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/apple-touch-icon.png", "sizes": "180x180", "type": "image/png" }
+  ]
+}
