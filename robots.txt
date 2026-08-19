@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://upx.online/sitemap.xml
+Sitemap: https://upx.plus/sitemap.xml
